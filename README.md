@@ -18,6 +18,8 @@ CSS3
 JavaScript
 📊 Project Status
 🟢 Active Development - This project is actively maintained and new features are being added regularly.
+📱 Demo
+https://yugamnanda18.github.io/MoodBoost/
 
 ⭐ Found MoodBoost helpful? Give it a star to show your support!
 
